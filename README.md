@@ -4,6 +4,10 @@
           
 Precisei fazer um teste pra ver se todas as funções do react e do android studio estavam funcionando para desenvolver um projeto futuro chamado Cardápio Online e aqui está o resultado:
 
+Documentação oficial do React: https://reactnative.dev/docs/environment-setup
+
+Como instalei o React: https://www.youtube.com/watch?v=fCLMhg8byi8&t=1824s
+
 <img src="Imagem/Android.png" alt="Android" align="center" width="300">
 
 # License
