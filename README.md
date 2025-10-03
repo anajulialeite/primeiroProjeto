@@ -16,4 +16,4 @@ Como instalei o React: https://www.youtube.com/watch?v=fCLMhg8byi8&t=1824s
 
 ## License
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-%231C003F.svg)](./LICENSE)
