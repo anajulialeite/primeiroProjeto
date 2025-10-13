@@ -5,15 +5,15 @@
           
 Precisei fazer um teste pra ver se todas as funções do react e do android studio estavam funcionando para desenvolver um projeto futuro chamado Cardápio Online e aqui está o resultado:
 
+## Demonstração do teste
+
+<img src="Imagem/Android.png" alt="Android" align="center" width="300">
+
 ## Links úteis
 
 Documentação oficial do <a href= "https://reactnative.dev/docs/environment-setup">React</a>
 
 Como instalei o <a href= "https://reactnative.dev/docs/environment-setup">React</a>
-
-## Demonstração do teste
-
-<img src="Imagem/Android.png" alt="Android" align="center" width="300">
 
 ## License
 
